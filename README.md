@@ -1,4 +1,6 @@
-### Hi there 👋
+### Help
+
+JavaScript just doesn't go away.
 
 <!--
 **K1llf0rce/K1llf0rce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
