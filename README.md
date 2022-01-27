@@ -2,4 +2,4 @@
 
 JavaScript just doesn't go away.
 
-![Metrics](https://metrics.lecoq.io/K1llf0rce?template=classic&config.timezone=Europe%2FVienna)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1llf0rce&show_icons=true&theme=tokyonight)
