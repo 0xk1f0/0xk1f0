@@ -8,3 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=K1llf0rce&show_icons=true&theme=tokyonight">
 </p>
 <hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1llf0rce&theme=tokyonight">
+</p>
+<hr>
