@@ -5,10 +5,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K1llf0rce&show_icons=true&theme=tokyonight">
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1llf0rce&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=K1llf0rce&show_icons=true&theme=github_dark&hide_border=true" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1llf0rce&theme=github_dark&hide_border=true" height="250">
 </p>
 <hr>
