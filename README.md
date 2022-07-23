@@ -1,7 +1,7 @@
 <hr>
 <p align="center">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=GNU%2FLinux+%3C3&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2358a6ff&lines=GNU%2FLinux+%3C3&center=true">
 </p>
 <hr>
 <p align="center">
