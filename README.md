@@ -8,7 +8,7 @@
     <p align="center">
       Bash<br>
       Python<br>
-      C++<br>
+      (Arduino) C++<br>
       JavaScript<br>
       HTML<br>
       CSS<br>
