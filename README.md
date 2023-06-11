@@ -14,7 +14,8 @@
     ],
     learning: [
         "Rust",
-        "Kotlin"
+        "Kotlin",
+        "Svelte"
     ]
 }
 ```
