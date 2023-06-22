@@ -4,13 +4,14 @@
     age: 18,
     country: "Austria",
     os: "Arch Linux",
-    languages: [
+    knowledge: [
         "Bash",
         "Python",
         "Arduino C/C++",
         "JavaScript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Astro"
     ],
     learning: [
         "Rust",
