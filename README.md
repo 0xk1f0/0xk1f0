@@ -9,9 +9,9 @@
         "Python",
         "Arduino C/C++",
         "JavaScript",
-        "HTML",
-        "CSS",
-        "Astro"
+        "TypeScript",
+        "HTML/CSS",
+        "Astro.js"
     ],
     learning: [
         "Rust",
