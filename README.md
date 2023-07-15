@@ -16,7 +16,8 @@
     learning: [
         "Rust",
         "Kotlin",
-        "Svelte"
+        "Svelte",
+        "Ansible"
     ]
 }
 ```
