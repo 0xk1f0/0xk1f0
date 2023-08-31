@@ -11,12 +11,13 @@
         "JavaScript",
         "TypeScript",
         "HTML/CSS",
-        "Astro.js"
+        "TailwindCSS"
+        "Astro",
+        "Svelte"
     ],
     learning: [
         "Rust",
         "Kotlin",
-        "Svelte",
         "Ansible"
     ]
 }
