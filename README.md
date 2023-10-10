@@ -1,7 +1,7 @@
 ```js
 {
     name: "Fabian",
-    build_date: "2004-10-11"
+    build_date: "2004-10-11",
     uptime: "19 years",
     country: "Austria",
     os: "Arch Linux",
