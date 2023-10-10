@@ -1,7 +1,8 @@
 ```js
 {
     name: "Fabian",
-    age: 19,
+    build_date: "2004-10-11"
+    uptime: "19 years",
     country: "Austria",
     os: "Arch Linux",
     knowledge: [
