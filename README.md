@@ -1,23 +1,22 @@
 ```js
 {
     name: "Fabian",
-    age: 18,
+    age: 19,
     country: "Austria",
     os: "Arch Linux",
     knowledge: [
         "Bash",
         "Python",
+        "Rust",
         "Arduino C/C++",
         "JavaScript",
         "TypeScript",
         "HTML/CSS",
         "TailwindCSS"
-        "Astro",
-        "Svelte"
+        "Astro.js",
+        "Svelte.js"
     ],
     learning: [
-        "Rust",
-        "Kotlin",
         "Ansible"
     ]
 }
