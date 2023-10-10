@@ -13,7 +13,7 @@
         "JavaScript",
         "TypeScript",
         "HTML/CSS",
-        "TailwindCSS"
+        "TailwindCSS",
         "Astro.js",
         "Svelte.js"
     ],
