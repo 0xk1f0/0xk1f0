@@ -2,7 +2,7 @@
 {
     name: "Fabian",
     build_date: "2004-10-11",
-    uptime: "19 years",
+    uptime: "20 years",
     country: "Austria",
     os: "Arch Linux",
     contact: {
