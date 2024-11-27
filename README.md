@@ -20,11 +20,8 @@
         "HTML/CSS",
         "TailwindCSS",
         "Astro.js",
-        "Svelte.js"
-    ],
-    learning: [
-        "Tauri",
-        "Ansible"
+        "Svelte.js",
+        "Tauri"
     ]
 }
 ```
