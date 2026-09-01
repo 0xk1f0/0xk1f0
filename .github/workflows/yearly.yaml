@@ -1,0 +1,32 @@
+name: Yearly Uptime Bump
+
+on:
+  schedule:
+    # 00:00 UTC on October 11th
+    - cron: '0 0 11 10 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: |
+          current=$(grep -oP '(?<=uptime: ")\d+(?= years")' README.md)
+          if [ -z "$current" ]; then
+            echo "uptime field not found in README.md" >&2
+            exit 1
+          fi
+          next=$((current + 1))
+          sed -i "s|uptime: \"${current} years\"|uptime: \"${next} years\"|" README.md
+          echo "Bumped $current -> $next"
+
+      - run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: annual uptime bump"
+          git push
