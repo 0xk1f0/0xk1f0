@@ -1,7 +1,7 @@
 ```js
 {
     name: "Fabian",
-    uptime: "21 years",
+    uptime: "22 years",
     country: "Austria",
     contact: {
         website: "https://k1f0.dev",
